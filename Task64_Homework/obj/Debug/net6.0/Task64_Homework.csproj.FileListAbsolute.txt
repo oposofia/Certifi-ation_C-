@@ -1,0 +1,15 @@
+C:\Users\sko88\OneDrive\Рабочий стол\GB\04 C#\Certification_C#\Task64_Homework\obj\Debug\net6.0\Task64_Homework.csproj.AssemblyReference.cache
+C:\Users\sko88\OneDrive\Рабочий стол\GB\04 C#\Certification_C#\Task64_Homework\obj\Debug\net6.0\Task64_Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sko88\OneDrive\Рабочий стол\GB\04 C#\Certification_C#\Task64_Homework\obj\Debug\net6.0\Task64_Homework.AssemblyInfoInputs.cache
+C:\Users\sko88\OneDrive\Рабочий стол\GB\04 C#\Certification_C#\Task64_Homework\obj\Debug\net6.0\Task64_Homework.AssemblyInfo.cs
+C:\Users\sko88\OneDrive\Рабочий стол\GB\04 C#\Certification_C#\Task64_Homework\obj\Debug\net6.0\Task64_Homework.csproj.CoreCompileInputs.cache
+C:\Users\sko88\OneDrive\Рабочий стол\GB\04 C#\Certification_C#\Task64_Homework\bin\Debug\net6.0\Task64_Homework.exe
+C:\Users\sko88\OneDrive\Рабочий стол\GB\04 C#\Certification_C#\Task64_Homework\bin\Debug\net6.0\Task64_Homework.deps.json
+C:\Users\sko88\OneDrive\Рабочий стол\GB\04 C#\Certification_C#\Task64_Homework\bin\Debug\net6.0\Task64_Homework.runtimeconfig.json
+C:\Users\sko88\OneDrive\Рабочий стол\GB\04 C#\Certification_C#\Task64_Homework\bin\Debug\net6.0\Task64_Homework.dll
+C:\Users\sko88\OneDrive\Рабочий стол\GB\04 C#\Certification_C#\Task64_Homework\bin\Debug\net6.0\Task64_Homework.pdb
+C:\Users\sko88\OneDrive\Рабочий стол\GB\04 C#\Certification_C#\Task64_Homework\obj\Debug\net6.0\Task64_Homework.dll
+C:\Users\sko88\OneDrive\Рабочий стол\GB\04 C#\Certification_C#\Task64_Homework\obj\Debug\net6.0\refint\Task64_Homework.dll
+C:\Users\sko88\OneDrive\Рабочий стол\GB\04 C#\Certification_C#\Task64_Homework\obj\Debug\net6.0\Task64_Homework.pdb
+C:\Users\sko88\OneDrive\Рабочий стол\GB\04 C#\Certification_C#\Task64_Homework\obj\Debug\net6.0\Task64_Homework.genruntimeconfig.cache
+C:\Users\sko88\OneDrive\Рабочий стол\GB\04 C#\Certification_C#\Task64_Homework\obj\Debug\net6.0\ref\Task64_Homework.dll
