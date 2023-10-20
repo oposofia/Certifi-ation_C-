@@ -3,19 +3,17 @@
 // m = 2, n = 3 -> A(m,n) = 9
 // m = 3, n = 2 -> A(m,n) = 29
 
-int Akkerman(int numM, int numN) // 2,5 - 3,5 - 4,5 - 5,5
+int Akkerman(int numM, int numN) 
 {
     if (numM == 0) return numN+1;
     if (numN == 0)
     {
-        return Akkerman(numM - 1, 1); //2 3 4
-    } //return (5)+4+3+2
+        return Akkerman(numM - 1, 1); 
+    } 
     else 
     {
         return Akkerman(numM - 1, Akkerman(numM, numN-1));
     }
-    // else Console.Write($"{num1}");
-
 }
 
 Console.WriteLine("Введите неотрицательное число m: ");
